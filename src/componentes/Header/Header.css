@@ -1,0 +1,6 @@
+/** Reescribir colores */
+
+
+.nombre-sitio {
+  color: var(--bs-danger)!important;
+}

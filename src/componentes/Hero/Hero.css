@@ -1,0 +1,13 @@
+.hero{
+
+    background-image: url(../../assets/images/header_proceso.webp);
+    height: 15rem;
+    background-size: cover;
+    background-position: center center;
+}
+
+@media(min-width:768px){
+    .hero{
+        height: 25rem;
+    }
+}
